@@ -1,0 +1,8 @@
+C:\Users\Lance\Desktop\水卡\黑工程水卡解密软件\HGC_Water_IC\HGC_Water_IC\bin\Debug\HGC_Water_IC.exe
+C:\Users\Lance\Desktop\水卡\黑工程水卡解密软件\HGC_Water_IC\HGC_Water_IC\bin\Debug\HGC_Water_IC.pdb
+C:\Users\Lance\Desktop\水卡\黑工程水卡解密软件\HGC_Water_IC\HGC_Water_IC\obj\x86\Debug\HGC_Water_IC.csprojResolveAssemblyReference.cache
+C:\Users\Lance\Desktop\水卡\黑工程水卡解密软件\HGC_Water_IC\HGC_Water_IC\obj\x86\Debug\HGC_Water_IC.Form1.resources
+C:\Users\Lance\Desktop\水卡\黑工程水卡解密软件\HGC_Water_IC\HGC_Water_IC\obj\x86\Debug\HGC_Water_IC.Properties.Resources.resources
+C:\Users\Lance\Desktop\水卡\黑工程水卡解密软件\HGC_Water_IC\HGC_Water_IC\obj\x86\Debug\HGC_Water_IC.csproj.GenerateResource.Cache
+C:\Users\Lance\Desktop\水卡\黑工程水卡解密软件\HGC_Water_IC\HGC_Water_IC\obj\x86\Debug\HGC_Water_IC.exe
+C:\Users\Lance\Desktop\水卡\黑工程水卡解密软件\HGC_Water_IC\HGC_Water_IC\obj\x86\Debug\HGC_Water_IC.pdb
